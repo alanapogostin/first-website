@@ -1,0 +1,72 @@
+.header{
+  background-color: #99d8c9;
+}
+h1 {
+  font-family: "Garamond", sans-serif;
+  text-align: center;
+}
+
+.place-name {
+  font-family: "Garamond", sans-serif;
+  font-style: bold;
+    color: white;
+  text-align: center;
+  padding: 8px;
+  background-color: #c994c7;
+}
+
+.time{
+  text-align: center;
+  font-family: "Garamond", sans-serif;
+  border-color: grey;
+  padding: 8px;
+}
+
+.front-image{
+  display: block;
+   margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  border: 20px #fee8c8;
+}
+.front-image:hover {
+   background-color: #eee;
+   cursor: pointer;
+   border-color: #DAF7A6;
+
+}
+
+.col {
+  float: left;
+  width: 50%;
+  display: inline-block;
+}
+
+#RIGHT-col {
+  display: block;
+}
+
+#LEFT-col {
+  display: block;
+}
+
+
+.list-item {
+  border: 1px solid #ccc;
+  padding: 8px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background-color: #ffffe5;
+  border-color: #c994c7;
+}
+
+
+.caption{
+   font-family: "Garamond", sans-serif;
+   font-style: italic;
+   text-align: center;
+   font-size: 11pt;
+   color: #980043;
+   padding: 8px;
+  margin-bottom: 10px;
+}
